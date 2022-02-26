@@ -21,7 +21,7 @@ sidebar:
         level: Native
       
       - idiom: English
-        level: Professional
+        level: Lower
 
     interests:
       - item: Coding
@@ -41,8 +41,11 @@ education:
       time: 2019 - Present
       
 experiences:
-      summary: |
-        There is no experience yet
+     - role:
+       time:
+       company:
+       details: |
+         I don't have any experience yet, but I hope to get the right supplies for my future job..
         
 skills:
     title: Skills &amp; Proficiency
@@ -52,10 +55,10 @@ skills:
         level: 60%
 
       - name: C
-        level: 80%
+        level: 65%
         
       - name: C++
-        level: 70%
+        level: 65%
 
       - name: HTML
         level: 50%
