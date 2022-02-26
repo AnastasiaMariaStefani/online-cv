@@ -34,13 +34,16 @@ career-profile:
     title: Career Profile
     summary: | 
         Undergraduate IT student at Ionian University
+        
 education:
     - degree: Department of Informatics
       university: Ionian University
       time: 2019 - Present
+      
 experiences:
       details: |
         There is no experience yet
+        
 skills:
     title: Skills &amp; Proficiency
 
