@@ -32,7 +32,7 @@ sidebar:
 
 career-profile:
     title: Career Profile
-      Undergraduate IT student at Ionian University
+      - details: Undergraduate IT student at Ionian University
 education:
     - degree: Department of Informatics
       university: Ionian University
