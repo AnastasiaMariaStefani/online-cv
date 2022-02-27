@@ -22,7 +22,7 @@ sidebar:
         level: Native
       
       - idiom: English
-        level: Lower
+        level: 
 
     interests:
       - item: Coding
@@ -46,7 +46,7 @@ experiences:
        time:
        company:
        details: |
-         I don't have any experience yet, but I hope to get the right supplies for my future job..
+         I don't have any experience yet, but I hope to get the right supplies for my future job.
         
 skills:
     title: Skills &amp; Proficiency
